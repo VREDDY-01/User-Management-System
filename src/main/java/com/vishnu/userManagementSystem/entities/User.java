@@ -1,4 +1,4 @@
-package com.vishnu.userManagementSystem;
+package com.vishnu.userManagementSystem.entities;
 
 public class User {
 	private int userId;

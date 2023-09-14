@@ -1,5 +1,6 @@
-package com.vishnu.userManagementSystem;
+package com.vishnu.userManagementSystem.repo;
 
+import com.vishnu.userManagementSystem.entities.User;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

@@ -4,6 +4,7 @@
 A Simple Spring boot backent application to manage the users in the databases.
 
 
+
 ## Tech Stack
 
 **Client:** Postman
@@ -11,13 +12,16 @@ A Simple Spring boot backent application to manage the users in the databases.
 **Server:** Java, Maven, SpringBoot
 
 
+
 ## Functions Used
 
-**Controller:** GetUsers, GetUser, AddUser, UpdateUser, DeleteUser
+**Controller:** addUser, getUserById, getALlUsers, updateUserInfo, deleteUser
  
-**Services:** GET, POST, UPDATE, DELETE (CRUD)
+**Services:** addUser, getUserById, getALlUsers, updateUserInfo, deleteUser
 
-**Database Design:** UserId, UserName, Name, Address, PhoneNumber with Java Getters & Setters
+**Database Design:** UserId, UserName, Name, Address, PhoneNumber
+
+**Database Design:** getUserList
 
 
 
